@@ -25,7 +25,7 @@ export default function Counter() {
                 <button onClick={() => setCount(0)}>초기화</button>
             </div>
             <small className="hint">
-                💾 값은 로컬 스토리지에 저장됨
+                값은 로컬 스토리지에 저장됨
             </small>
         </div>
     );  
